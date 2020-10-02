@@ -26,6 +26,7 @@ Material:
     m_Floats: []
     m_Colors:
     - _Color: {r: 0.54901963, g: 0.54901963, b: 0.54901963, a: 1}
+  m_BuildTextureStacks: []
 --- !u!1002 &2100001
 EditorExtensionImpl:
   serializedVersion: 6
